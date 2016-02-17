@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.7638298
+  lightness: 0.6234043
+  brandStrength: 0.5212766
+  brandColors:
+    - '#CFBFBD'
+    - '#150402'
+    - '#FC6E0D'
+    - '#FDC60C'
+    - '#BCA477'
+  rhythmicContrast: 0.5702128
+typography_spectrum: 0.1595745
+name: Fooding Asia
